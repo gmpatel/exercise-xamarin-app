@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseAndroidSimpleActivity\MainActivity.cs">
+    <Files>
+      <File FileName="ExerciseAndroidSimpleActivity\Adapters\DataAdapter.cs" Line="58" Column="2" />
+      <File FileName="ExerciseAndroidSimpleActivity\MainActivity.cs" Line="21" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ExerciseAndroidSimpleActivity" expanded="True" selected="True">
+            <Node name="Adapters" expanded="True" />
+            <Node name="Classes" expanded="True" />
+            <Node name="General" expanded="True" />
+            <Node name="Properties" expanded="True" />
+            <Node name="Resources" expanded="True">
+              <Node name="drawable" expanded="True" />
+              <Node name="layout" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Fizaa\Documents\Projects\SolutionExerciseAndroidSimpleActivity\ExerciseAndroidSimpleActivity\MainActivity.cs" line="50" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExerciseAndroidSimpleActivity MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

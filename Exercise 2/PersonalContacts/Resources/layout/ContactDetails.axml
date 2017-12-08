@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/lblFullName"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:text="Name" />
+            <TextView
+                android:id="@+id/txtFullName"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Name Value" />
+            <TextView
+                android:id="@+id/lblHomeAddress"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:text="Address" />
+            <TextView
+                android:id="@+id/txtHomeAddress"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Street" />
+            <TextView
+                android:id="@+id/txtSuburb"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Suburb" />
+            <TextView
+                android:id="@+id/txtState"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="State" />
+            <TextView
+                android:id="@+id/txtCountry"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Country" />
+            <TextView
+                android:id="@+id/lblHomePhone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:text="Home Phone" />
+            <TextView
+                android:id="@+id/txtHomePhone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Home Phone" />
+            <TextView
+                android:id="@+id/lblWorkPhone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:text="Work Phone" />
+            <TextView
+                android:id="@+id/txtWorkPhone"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Work Phone" />
+            <TextView
+                android:id="@+id/lblMobile"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:text="Mobile" />
+            <TextView
+                android:id="@+id/txtMobile"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Mobile" />
+            <TextView
+                android:id="@+id/lblEmail"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:text="Email" />
+            <TextView
+                android:id="@+id/txtEmail"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Email" />
+            <TextView
+                android:id="@+id/lblLinkedInUrl"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:text="Linked-in" />
+            <TextView
+                android:id="@+id/txtLinkedInUrl"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Linked-in URL" />
+            <TextView
+                android:id="@+id/lblFacebookUrl"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:text="Facebook" />
+            <TextView
+                android:id="@+id/txtFacebookUrl"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:paddingLeft="8dp"
+                android:text="Facebook URL" />
+            <TextView
+                android:id="@+id/lblHomeAddressMap"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:textStyle="bold"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp"
+                android:text="Home Location" />
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:id="@+id/imgHomeAddressMap"
+                android:cropToPadding="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/map"
+                android:paddingLeft="8dp"
+                android:paddingBottom="10dp" />
+        <!--<LinearLayout
+		        android:orientation="horizontal"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content">
+		        <TextView
+		            android:id="@+id/contactName"
+		            android:layout_width="fill_parent"
+		            android:layout_height="wrap_content"
+		            android:textSize="12dp"
+		            android:paddingLeft="5dp"
+		            android:text="Company Name"
+		            android:layout_weight="1" />
+		        <TextView
+		            android:id="@+id/contactTitle"
+		            android:layout_width="fill_parent"
+		            android:layout_height="wrap_content"
+		            android:textSize="12dp"
+		            android:paddingRight="5dp"
+		            android:text="Contact Person"
+		            android:layout_weight="1" />
+		    </LinearLayout>-->
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

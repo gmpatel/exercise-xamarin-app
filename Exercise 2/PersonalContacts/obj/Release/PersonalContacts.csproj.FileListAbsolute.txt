@@ -1,0 +1,15 @@
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\bin\Release\PersonalContacts.dll
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\bin\Release\PersonalContacts.pdb
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\bin\Release\PersonalContacts.PersonalContacts.apk
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\bin\Release\PersonalContacts.PersonalContacts-Signed.apk
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\PersonalContacts.dll
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\PersonalContacts.pdb
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\android\bin\PersonalContacts.PersonalContacts.apk
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\res\layout\main.xml
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\res\values\strings.xml
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\res\drawable\icon.png
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\res\layout\row.xml
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\res\layout\contactdetails.xml
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\res\drawable\map.png
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\R.cs.flag
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Release\uploadflags.txt

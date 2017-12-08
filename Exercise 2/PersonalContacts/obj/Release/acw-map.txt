@@ -1,0 +1,3 @@
+PersonalContacts.MainActivity;personalcontacts.MainActivity
+PersonalContacts.DataAdapter;personalcontacts.DataAdapter
+PersonalContacts.ContactDetailsActivity;personalcontacts.ContactDetailsActivity

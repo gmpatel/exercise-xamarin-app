@@ -1,0 +1,16 @@
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\bin\Debug\PersonalContacts.dll
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\bin\Debug\PersonalContacts.pdb
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\bin\Debug\PersonalContacts.dll.mdb
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\bin\Debug\PersonalContacts.PersonalContacts.apk
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\bin\Debug\PersonalContacts.PersonalContacts-Signed.apk
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\PersonalContacts.dll
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\PersonalContacts.pdb
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\android\bin\PersonalContacts.PersonalContacts.apk
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\res\layout\main.xml
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\res\values\strings.xml
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\res\drawable\icon.png
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\res\layout\row.xml
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\res\layout\contactdetails.xml
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\res\drawable\map.png
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\R.cs.flag
+C:\Users\Fizaa\Documents\Projects\SolutionPersonalContacts\PersonalContacts\obj\Debug\uploadflags.txt
